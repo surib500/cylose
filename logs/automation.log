@@ -22,3 +22,27 @@
 12:30:27.508 [main] INFO  TestCase.TC_001_Registration - *********	Enter Username*********
 12:30:28.028 [main] INFO  TestCase.TC_001_Registration - *********Enter Password*********
 12:30:28.153 [main] INFO  TestCase.TC_001_Registration - *********Clicking on Login button*********
+14:44:43.670 [main] INFO  TestCase.TC_001_Registration - *********Launch application*********
+14:44:49.395 [main] INFO  TestCase.TC_001_Registration - *********maximize window*********
+14:44:49.541 [main] INFO  TestCase.TC_001_Registration - ********Time duration applied**********
+14:44:49.647 [main] INFO  TestCase.TC_001_Registration - *********	Enter Username*********
+14:44:50.347 [main] INFO  TestCase.TC_001_Registration - *********Enter Password*********
+14:44:50.499 [main] INFO  TestCase.TC_001_Registration - *********Clicking on Login button*********
+14:46:43.342 [main] INFO  TestCase.TC_001_Registration - *********Launch application*********
+14:46:51.530 [main] INFO  TestCase.TC_001_Registration - *********maximize window*********
+14:46:51.698 [main] INFO  TestCase.TC_001_Registration - ********Time duration applied**********
+14:46:51.793 [main] INFO  TestCase.TC_001_Registration - *********	Enter Username*********
+14:46:52.567 [main] INFO  TestCase.TC_001_Registration - *********Enter Password*********
+14:46:52.694 [main] INFO  TestCase.TC_001_Registration - *********Clicking on Login button*********
+14:50:15.784 [main] INFO  TestCase.TC_001_Registration - *********Launch application*********
+14:50:23.318 [main] INFO  TestCase.TC_001_Registration - *********maximize window*********
+14:50:23.445 [main] INFO  TestCase.TC_001_Registration - ********Time duration applied**********
+14:50:23.541 [main] INFO  TestCase.TC_001_Registration - *********	Enter Username*********
+14:50:24.995 [main] INFO  TestCase.TC_001_Registration - *********Enter Password*********
+14:50:25.381 [main] INFO  TestCase.TC_001_Registration - *********Clicking on Login button*********
+16:48:48.199 [main] INFO  TestCase.TC_001_Registration - *********Launch application*********
+16:48:55.545 [main] INFO  TestCase.TC_001_Registration - *********maximize window*********
+16:48:55.677 [main] INFO  TestCase.TC_001_Registration - ********Time duration applied**********
+16:48:55.781 [main] INFO  TestCase.TC_001_Registration - *********	Enter Username*********
+16:48:56.526 [main] INFO  TestCase.TC_001_Registration - *********Enter Password*********
+16:48:56.637 [main] INFO  TestCase.TC_001_Registration - *********Clicking on Login button*********
